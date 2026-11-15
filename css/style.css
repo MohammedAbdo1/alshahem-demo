@@ -142,7 +142,7 @@ svg.i{width:1em;height:1em;fill:none;stroke:currentColor;stroke-width:1.7;stroke
 .req-note{display:flex;align-items:center;gap:.6rem;padding:.75rem 1.4rem;background:var(--mist);font-size:.82rem;color:var(--muted)}
 .req-note .i{color:var(--blue);width:17px;height:17px}
 .toast{max-height:0;overflow:hidden;opacity:0;transition:max-height .6s var(--ease),opacity .4s,margin .4s}
-.toast.show{max-height:160px;opacity:1;margin-top:.7rem}
+.toast.show{max-height:520px;opacity:1;margin-top:.7rem}
 .toast-in{background:var(--grad);color:#fff;border-radius:18px;padding:1rem 1.3rem;display:flex;gap:1rem;align-items:center;justify-content:space-between;flex-wrap:wrap}
 .toast-in p{font-size:.92rem;max-width:44rem}
 .toast-in b{display:block;font-size:1rem}
